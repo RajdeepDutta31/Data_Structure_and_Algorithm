@@ -1,8 +1,8 @@
 // Trees Creation
-//	     	 3
+//	     3
 //   	   /  \
 //  	  4    5
-//	    / \ 
+//      / \ 
 //     11 12
 
 // Preorder :- Root -> Left -> Right     3->4->11->12->5
