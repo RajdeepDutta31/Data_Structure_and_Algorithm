@@ -50,7 +50,6 @@ void deQueue(struct Queue *q){
 		q->f = 0;
 		q->r = q->r - 1;
 	}
-	//printf("%d",q->f);
 }
 
 int main(){
